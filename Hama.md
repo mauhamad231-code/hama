@@ -1,536 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RUDAW.png" group-title="KU- KURD HD",K- Rudaw 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527758
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="KU- KURD HD",K- K24 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527759
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="KU- KURD HD",K- NRT 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527760
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="KU- KURD HD",K- Channel 8 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527761
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KNN.png" group-title="KU- KURD HD",K- KNN 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527762
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.SORANI.png" group-title="KU- KURD HD",K- Kurdmax Sorani 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527763
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="KU- KURD HD",K- Kurdmax Show Sorani 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527764
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARIN.FAMILY.png" group-title="KU- KURD HD",K- Barin Family 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527765
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARIN.MOVIES.png" group-title="KU- KURD HD",K- Barin Movies 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527766
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="KU- KURD HD",K- Astera Family 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527767
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="KU- KURD HD",K- Astera Show 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527768
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SPORT.png" group-title="KU- KURD HD",K- Astera Sport 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527769
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.DRAMA.png" group-title="KU- KURD HD",K- Aro Drama 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527770
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="KU- KURD HD",K- Aro Family 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527771
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="KU- KURD HD",K- Aro Kids 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527772
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.SPORT.png" group-title="KU- KURD HD",K- Aro Sport 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527773
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="KU- KURD HD",K- K24 Documentary 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527774
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="KU- KURD HD",K- Afarin Kids 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527775
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hMwjgzp/Asset-497-8x.png" group-title="KU- KURD HD",K- Dasinya Kids 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527776
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.SPORT.png" group-title="KU- KURD HD",K- Dasinya Sport 4K
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527777
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="KU- KURD HD",K- K24
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527778
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="KU- KURD HD",K- NRT 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527779
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.png" group-title="KU- KURD HD",K- Kurdsat TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527780
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="KU- KURD HD",K- Channel 8 Kurdish
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527781
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" group-title="KU- KURD HD",K- Payam
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527782
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KNN.png" group-title="KU- KURD HD",K- KNN
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527783
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAGROS.png" group-title="KU- KURD HD",K- Zagros TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527784
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PSHDAR.png" group-title="KU- KURD HD",K- LD Pshdar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527785
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDISTAN.SPORT.png" group-title="KU- KURD HD",K- Kurdistan Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527786
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GALI.KURDISTAN.png" group-title="KU- KURD HD",K- Gali Kurdistan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527787
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GASHA.FAMILY.png" group-title="KU- KURD HD",K- BNAR MOVIES HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527788
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZED.PLUS.png" group-title="KU- KURD HD",K- ZED Plus
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527789
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZED.png" group-title="KU- KURD HD",K- Zed HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527790
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT.SPORT.png" group-title="KU- KURD HD",K- NRT Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527791
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT2.png" group-title="KU- KURD HD",K- NRT 2 Sorani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527792
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT3.png" group-title="KU- KURD HD",K- NRT 3 Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527793
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT4.png" group-title="KU- KURD HD",K- NRT 4
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527794
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.KIDS.png" group-title="KU- KURD HD",K- Niga Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527795
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.FAMILY.png" group-title="KU- KURD HD",K- Niga Family
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527796
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.MOVIES.png" group-title="KU- KURD HD",K- Niga Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527797
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPEDA.png" group-title="KU- KURD HD",K- Speda
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527798
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPEDA.DRAMA.png" group-title="KU- KURD HD",K- Speda  Drama
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527799
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.MOVIES.png" group-title="KU- KURD HD",K-Newline Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527800
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.BOLLYWOOD.png" group-title="KU- KURD HD",K-Newline Bollywood
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527801
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.DRAMA.png" group-title="KU- KURD HD",K-Newline Drama
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527802
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.KIDS.png" group-title="KU- KURD HD",K-Newline Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527803
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZOOM.png" group-title="KU- KURD HD",K- Zoom TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527804
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- Kurdana
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527805
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/WAAR.png" group-title="KU- KURD HD",K- WAAR
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527806
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- MTV Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527807
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIROJKIDS.png" group-title="KU- KURD HD",K- Niroj Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527808
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="KU- KURD HD",K- KURD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527809
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIROJ.png" group-title="KU- KURD HD",K- Niroj
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527810
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOYA.png" group-title="KU- KURD HD",K- Koya
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527811
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KHAK.png" group-title="KU- KURD HD",K- Khak
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527812
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- NEW HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527813
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- MTV Music
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527814
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KIDCOHD.png" group-title="KU- KURD HD",K- kidco hd
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527815
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A2.png" group-title="KU- KURD HD",K- A2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527816
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.ALL.png" group-title="KU- KURD HD",K- Qalam TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527817
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.AYNI.png" group-title="KU- KURD HD",K- Qalam Ayni
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527818
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.GEOGRAPHIC.png" group-title="KU- KURD HD",K- Qalam geoghraphic
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527819
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.KIDS.png" group-title="KU- KURD HD",K- Qalam kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527820
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="KU- KURD HD",K- K 24 DOC
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527821
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RASAN.png" group-title="KU- KURD HD",K- Rasan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527822
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A.TV.png" group-title="KU- KURD HD",K- ATV KURD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527823
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AVA.ENTERTAINMENT.png" group-title="KU- KURD HD",K- AVA Entertainment
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527824
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AVASPORT.png" group-title="KU- KURD HD",K- Ava Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527825
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SILEMANI.png" group-title="KU- KURD HD",K- Slemani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527826
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SHAISTA.png" group-title="KU- KURD HD",K- Shaista
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527827
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.KURMANJI.png" group-title="KU- KURD HD",K- KurdMax Kurmanji
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527828
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.png" group-title="KU- KURD HD",K- KurdMax Sorani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527829
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.PAPULA.png" group-title="KU- KURD HD",K- Kurdmax Pepula
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527830
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.KURMANJI.png" group-title="KU- KURD HD",K- Kurdmax Show Kurmanji
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527831
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="KU- KURD HD",K- KurdMax Show Sorani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527832
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.MUSIC.png" group-title="KU- KURD HD",K- Kurdmax Music
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527833
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LAWAN.png" group-title="KU- KURD HD",K- Lawan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527834
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/4KURD.png" group-title="KU- KURD HD",K- 4 Kurd
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527835
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SADA.png" group-title="KU- KURD HD",K- SADA
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527836
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SAHAR.png" group-title="KU- KURD HD",K- Sahar Kurdi
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527837
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KERKUK.png" group-title="KU- KURD HD",K- Kirkuk
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527838
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JUDI.png" group-title="KU- KURD HD",K- Judi
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527839
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JOJO.MAMA.png" group-title="KU- KURD HD",K- JoJo MaMa
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527840
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT3.png" group-title="KU- KURD HD",K- See Sport 3
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527841
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="KU- KURD HD",K- Aro Family
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527842
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.DRAMA.png" group-title="KU- KURD HD",K- Aro Drama
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527843
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="KU- KURD HD",K- Aro Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527844
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.SPORT.png" group-title="KU- KURD HD",K- Aro Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527845
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ALLA.png" group-title="KU- KURD HD",K- ALLA
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527846
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="KU- KURD HD",K- See Sport 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527847
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BASK.png" group-title="KU- KURD HD",K- BASK
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527848
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.KIDS.png" group-title="KU- KURD HD",K- Dasinya kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527849
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DUHOK.SPORT.png" group-title="KU- KURD HD",K- Duhok Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527850
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="KU- KURD HD",K- FOX
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527851
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ALA.png" group-title="KU- KURD HD",K- Ala
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527852
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/4ANIME.png" group-title="KU- KURD HD",K- 4 Anime
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527853
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/4SPORT.png" group-title="KU- KURD HD",K- 4 Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527854
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A.AMOZHGARY.png" group-title="KU- KURD HD",K- A.Amozhgary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527855
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AMOZHGARY.png" group-title="KU- KURD HD",K- Amozhgary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527856
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="KU- KURD HD",K- Aryen TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527857
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.BABY.png" group-title="KU- KURD HD",K- Astera Baby
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527858
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.DOCUMENTARY.png" group-title="KU- KURD HD",K- Astera Documentary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527859
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="KU- KURD HD",K- Astera Family
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527860
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.MOVIES.png" group-title="KU- KURD HD",K- Astera Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527861
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="KU- KURD HD",K- Astera Show
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527862
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SPORT.png" group-title="KU- KURD HD",K- Astera Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527863
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BABOLY.png" group-title="KU- KURD HD",K- Baboly
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527864
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZ.png" group-title="KU- KURD HD",K- Bangawaz
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527865
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BMC.png" group-title="KU- KURD HD",K- BMC
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527866
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CIHAN.png" group-title="KU- KURD HD",K- Cihan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527867
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CIRA.png" group-title="KU- KURD HD",K- Cira TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527868
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="KU- KURD HD",K- LD Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527869
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.SPORT.png" group-title="KU- KURD HD",K- Dasinya Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527870
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DERIN.png" group-title="KU- KURD HD",K- Derin
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527871
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="KU- KURD HD",K- Derwaze
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527872
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DIMEN.png" group-title="KU- KURD HD",K- Dimen
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527873
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="KU- KURD HD",K- Duhok
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527874
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HELHELOK.png" group-title="KU- KURD HD",K- Helhelok
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527875
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/IRAQIA.KURD.png" group-title="KU- KURD HD",K- Iraqia Kurd
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527876
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ISHTAR.png" group-title="KU- KURD HD",K- Ishtar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527877
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JIN.png" group-title="KU- KURD HD",K- Jin
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527878
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MTV.SPORT.png" group-title="KU- KURD HD",K- MTV Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527879
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMAL.RANYA.png" group-title="KU- KURD HD",K- Komal Ranya
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527880
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMAL.png" group-title="KU- KURD HD",K- Komall
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527881
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" group-title="KU- KURD HD",K- KRD WWE
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527882
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="KU- KURD HD",K- KURD MOVIES
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527883
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.FAMILY.png" group-title="KU- KURD HD",K- LD Family
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527884
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.KURD.CINEMA.png" group-title="KU- KURD HD",K- LD Kurdcinema
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527885
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.KIDS.png" group-title="KU- KURD HD",K- MMN Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527886
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.NUJIN.png" group-title="KU- KURD HD",K- LD Nujin
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527887
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MEDMUSIC.png" group-title="KU- KURD HD",K- Med Music
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527888
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="KU- KURD HD",K- Mihrab
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527889
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MINARA.png" group-title="KU- KURD HD",K- Minara
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527890
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.png" group-title="KU- KURD HD",K- NewLine
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527891
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE2.png" group-title="KU- KURD HD",K- Newline 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527892
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="KU- KURD HD",K- NewMax Box Office 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527893
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" group-title="KU- KURD HD",K- Nubar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527894
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PARWARDAY.DUHOK.png" group-title="KU- KURD HD",K- Parwardayi Duhok
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527895
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SOZ.png" group-title="KU- KURD HD",K- Soz
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527896
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SOZQURAN.png" group-title="KU- KURD HD",K- SOZ QURAN
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527897
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EZDAN.png" group-title="KU- KURD HD",K- Ezdan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527898
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAT.png" group-title="KU- KURD HD",K- Qalat
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527899
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="KU- KURD HD",K- Mihrab FM
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527900
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RANIA.png" group-title="KU- KURD HD",K- Ranya
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527901
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RENG.DOCUMENTARY.png" group-title="KU- KURD HD",K- Reng Document
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527902
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RENG.png" group-title="KU- KURD HD",K- Reng
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527903
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ROJAVA.png" group-title="KU- KURD HD",K- Rojava
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527904
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RONAHI.png" group-title="KU- KURD HD",K- Ronahi
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527905
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SHAKROK.png" group-title="KU- KURD HD",K- Shakrok
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527906
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/STERK.png" group-title="KU- KURD HD",K- Sterk
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527907
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/TASAWUF.png" group-title="KU- KURD HD",K- tasawf
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527908
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/TRT.KURDI.png" group-title="KU- KURD HD",K- TRT KURDI
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527909
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KU- KURD HD",K- U TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527910
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="KU- KURD HD",K- U2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527911
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KU- KURD HD",K- UTV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527912
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAROK.SORANI.png" group-title="KU- KURD HD",K- Zarok Sorani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527913
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZNAR.png" group-title="KU- KURD HD",K- Znar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527914
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASO.SPORT.png" group-title="KU- KURD HD",K-Aso Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527915
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="KU- KURD HD",K- Binar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527916
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINBAXCHA.png" group-title="KU- KURD HD",K- AFARIN BAXCHA
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527917
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="KU- KURD HD",K- Afarin Kids
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527918
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- MTV Family
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527919
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KANI.png" group-title="KU- KURD HD",K- Kani
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527920
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMALA.MEDIA.NETWORK.png" group-title="KU- KURD HD",KOMALA Media Network
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527921
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MTV.SPORT.png" group-title="KU- KURD HD",K- MTV Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527922
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="KU- KURD HD",K- KURD CHANNEL
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527923
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.SPORT.png" group-title="KU- KURD HD",K- Newline Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527924
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.ANIME.png" group-title="KU- KURD HD",K- LD Anime
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527925
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMNCLASSIC.png" group-title="KU- KURD HD",K- MMN Classic Musical
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527926
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.CLIP.png" group-title="KU- KURD HD",K- MMN Clip
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527927
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.DOCUMENTARY.png" group-title="KU- KURD HD",K- MMN Documentary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527928
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.NEWS.png" group-title="KU- KURD HD",K- MMN News
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527929
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.MOVIES.png" group-title="KU- KURD HD",K- MMN Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527930
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMNRADIOFARSI.png" group-title="KU- KURD HD",K- MMN Radio Farsy
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527931
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.RADIOTURKEY.png" group-title="KU- KURD HD",K- MMN Radio Turkey
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527932
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.SHOW.png" group-title="KU- KURD HD",K- MMN Show
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527933
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="KU- KURD HD",K- MMN Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527934
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="KU- KURD HD",K- MMN ACTION
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527935
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="KU- KURD HD",K- MMN DRAMA
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527936
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.SPORT.png" group-title="KU- KURD HD",K- MMN SPORT
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527937
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="KU- KURD HD",K- MNN ACTION
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527938
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NOOR.png" group-title="KU- KURD HD",K- Noor
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527939
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" group-title="KU- KURD HD",K- NUBAR SPORT
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527940
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ONE.png" group-title="KU- KURD HD",K- One World
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527941
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ROZH.png" group-title="KU- KURD HD",K- Rozh
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527942
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="KU- KURD HD",K- See Sport 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527943
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.png" group-title="KU- KURD HD",K- Sima
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527944
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.DOCUMENTARY.png" group-title="KU- KURD HD",K- Sima Documentary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527945
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.MOVIES.png" group-title="KU- KURD HD",K- Sima Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527946
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.SPORT.png" group-title="KU- KURD HD",K- SIMA SPORT
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527947
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="KU- KURD HD",K- Zaxo
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527948
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="KU- KURD HD",K- Zaxo Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527949
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BADINIMOVIES.png" group-title="KU- KURD HD",K- Forever Badini Movies
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527950
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BADINISERIES.png" group-title="KU- KURD HD",K- Forever Badini Series
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527951
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KU- KURD HD",K- Forever Cartoon 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527952
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KU- KURD HD",K- Forever Cartoon 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527953
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KU- KURD HD",K- Forever Cartoon 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527954
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KU- KURD HD",K- Forever Cartoon 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527955
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KU- KURD HD",K- Forever Cartoon 3
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527956
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/TOMANDJERRY.png" group-title="KU- KURD HD",K- Forever Tom & Jerry
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527957
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION1.png" group-title="KU- KURD HD",K- Kurdcinema Action 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527958
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMAACTION2.png" group-title="KU- KURD HD",K- Kurdcinema Action 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527959
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION3.png" group-title="KU- KURD HD",K- Kurdcinema Action 3
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527960
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="KU- KURD HD",K- NewMax Box Office
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527961
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KU- KURD HD",K-Forever Cinema 1
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527962
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KU- KURD HD",K-Forever Cinema 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527963
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KU- KURD HD",K-Forever Cinema 3
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527964
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOREVERFISHING.png" group-title="KU- KURD HD",K-Forever Fishing
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527965
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="KU- KURD HD",K-Forever Kurdistan Nature
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527966
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/PINK.PANTER.png" group-title="KU- KURD HD",K-Forever Pink Panther
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527967
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MUHAMMAD.MALA.FAYAQ.png" group-title="KU- KURD HD",K- Muhammad Mala Fayaq
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527968
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZHYANNAMA.png" group-title="KU- KURD HD",K- Zhyan Nama
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527969
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EKURD.png" group-title="KU- KURD HD",K- EUROKURD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527970
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NISHTIMANYMN.png" group-title="KU- KURD HD",K- Nishtimany mn
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527971
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.AZHIN.png" group-title="KU- KURD HD",K- LD AZHIN
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527972
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZEN.BADINAN.png" group-title="KU- KURD HD",K- Bangxwazen Badinan
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527973
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ADNANWLINA.jpg" group-title="KU- KURD HD",K- Adnan Wa Lina
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527974
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARNAMAYBARNAMA.png" group-title="KU- KURD HD",K- Barnmay Barnama
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527975
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BAZMIBAZM.png" group-title="KU- KURD HD",K- Bazmi Bazm
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527976
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DRAMAY3BA4.png" group-title="KU- KURD HD",K- Dramay 3 ba 4
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527977
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/MRBEAN.png" group-title="KU- KURD HD",K- Mr. Bean Kurdish
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527978
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QAQA.png" group-title="KU- KURD HD",K- Qaqa
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527979
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="KU- KURD HD",K- LD SPORT CHEAK
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527980
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="KU- KURD HD",K-KURD MOVIES
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527982
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DELAL.SPORT.png" group-title="KU- KURD HD",K- Delal Sport
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527983
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HALABJA.png" group-title="KU- KURD HD",K- Halabja
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527984
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.LIFE.png" group-title="KU- KURD HD",K- LD LIFE
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527985
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="KU- KURD HD",K- Gewhar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527986
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KALAPUR.png" group-title="KU- KURD HD",K- Kalapur
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527987
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JAMAWAR.png" group-title="KU- KURD HD",Jamawar TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527988
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AKILLI.png" group-title="KU- KURD HD",K- Akili TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527989
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="KU- KURD HD",K- Asman
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527990
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.CULTUR.png" group-title="KU- KURD HD",K- Astera Culture
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527991
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BAHA.png" group-title="KU- KURD HD",K- Baha Entertainment HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527992
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARINQURAN.png" group-title="KU- KURD HD",K- Barin Quran
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527993
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.png" group-title="KU- KURD HD",K- Dasinya HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527994
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.MUSIC.png" group-title="KU- KURD HD",K- Dasinya Music
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527995
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DELAL.png" group-title="KU- KURD HD",K- Delal TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527996
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="KU- KURD HD",K- Duhok TV HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527997
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LOCAL.FIRST.png" group-title="KU- KURD HD",K- First
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527998
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="KU- KURD HD",K- Fox HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527999
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HUNAR.png" group-title="KU- KURD HD",K- Hunar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528000
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMA.png" group-title="KU- KURD HD",K- Kurdcinema
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528001
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PARWARDAI.HAWLER.png" group-title="KU- KURD HD",K- Parwardai Hawler HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528002
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SRUSHT.png" group-title="KU- KURD HD",K- Srusht
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528003
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="KU- KURD HD",K- UTV 2
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528004
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KU- KURD HD",K- UTV DUHOK  HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528005
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- Garyan TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528006
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEXTTV.png" group-title="KU- KURD HD",k- Next TV
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528007
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASHTI.png" group-title="KU- KURD HD",K- Ashti tv
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528008
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPI.png" group-title="KU- KURD HD",K- Spi HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528009
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- Shar tv
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528010
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/IMKQURAN.png" group-title="KU- KURD HD",K- IMK Quran
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528011
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/11ADARE.png" group-title="KU- KURD HD",K- 11 adare
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528012
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BEFRIN.png" group-title="KU- KURD HD",K- BEFRIN HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528013
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FARMODA.png" group-title="KU- KURD HD",K- Farmoda
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528014
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AVAR.png" group-title="KU- KURD HD",K- Avar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528015
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",K- Rojgar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528016
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EMAN.png" group-title="KU- KURD HD",K- Eman
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528017
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DEVER.png" group-title="KU- KURD HD",K- Dever
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528018
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" group-title="KU- KURD HD",K- Xabir
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528019
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="KU- KURD HD",K- Zaxo HD
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528020
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZHYAR.png" group-title="KU- KURD HD",K- Zhyar
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528021
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="KU- KURD HD",K- Forever Documentary
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528022
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/FDWFDnC/aryan.jpg" group-title="KU- KURD HD",ANIMAL BOX
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528023
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KU- KURD HD",KURD 7
-http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528024
 #EXTINF:-1 tvg-id="آية الكرسي۞" tvg-logo="noimage.png" group-title="KURDISH",آية الكرسي
 https://v.redd.it/5svby2yfhj6f1/HLSPlaylist.m3u8
 #EXTINF:-1 tvg-id="اشهد ان لا إله إلا الله ۞" tvg-logo="https://mshmsdin.com/en/wp-content/uploads/2023/05/%D8%A3%D8%B4%D9%87%D8%AF-%D8%A3%D9%86-%D9%84%D8%A7-%D8%A5%D9%84%D9%87-%D8%A5%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87.png" group-title="KURDISH",اشهد ان لا إله إلا الله
@@ -813,8 +281,6 @@ https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-1019fmradiokrd/1019fmradiokrd/chunks.m3u8
 #EXTINF:-1 tvg-id="DUHOK-TV" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="KURDISH",DUHOK-TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:-1 tvg-id="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="KURDISH",اشتراك✅  کڕینی کۆد✅  IPTV VIP
-https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 #EXTINF:-1 tvg-id="WAAR TV" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURDISH",WAAR TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="AVAR TV" tvg-logo="https://i.postimg.cc/gGpP3sFT/AVAR.png" group-title="KURDISH",AVAR TV
@@ -873,398 +339,690 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:-1 tvg-id="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Astera sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527769.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Aro sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527773.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Kurdistan sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527786.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Nrt sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527791.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Ava sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527825.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Duhok sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527850.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Ld sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Ld sport cheak
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURD SPORT",Aso sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527915.ts
-#EXTINF:-1 tvg-id="BEIN  SPORTS NEWS 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS NEWS 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936482
-#EXTINF:-1 tvg-id="BEIN SPORTS GLOBAL 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936483
-#EXTINF:-1 tvg-id="beinseries1ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/192818
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193636
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 3 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193637
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 4 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193638
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 5 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193639
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 6 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193640
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS 7 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193641
-#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 8 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193642
-#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 9 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193643
-#EXTINF:-1 tvg-id="BEIN  SPORTS 1 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4k FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936484
-#EXTINF:-1 tvg-id="BEIN  SPORTS 2 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4k FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936485
-#EXTINF:-1 tvg-id="BEIN  SPORTS 3 4k FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 3 4k FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936486
-#EXTINF:-1 tvg-id="BEIN  SPORTS 1 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 1 4k EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936487
-#EXTINF:-1 tvg-id="BEIN  SPORTS 2 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 2 4k EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936488
-#EXTINF:-1 tvg-id="BEIN SPORTS  3 4k EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS  3 4k EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936489
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS XTRA 1 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936490
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 2 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS XTRA 2 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936491
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS Xtra 3 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193644
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 4 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 4 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763628
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 5 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 5 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763627
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 6 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 6 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763626
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 7 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 7 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763625
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 8 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 8 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763624
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 9 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 9 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763623
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 10 4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS Xtra 10 4K
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763622
-#EXTINF:-1 tvg-id="BEIN  SPORTS NBA 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS NBA 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936494
-#EXTINF:-1 tvg-id="BEIN SPORTS EVENT 1 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS EVENT 1 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936492
-#EXTINF:-1 tvg-id="BEIN SPORTS EVENT 2 4k" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN SPORTS EVENT 2 4k
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936493
-#EXTINF:-1 tvg-id="BEIN  SPORTS NEWS FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS NEWS FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936495
-#EXTINF:-1 tvg-id="BEIN  SPORTS GLOBAL FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS GLOBAL FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936496
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 1 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83628
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 2 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83627
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 3 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83626
-#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 4 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83625
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 5 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83624
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 6 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83623
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 7 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83622
-#EXTINF:-1 tvg-id="beinmovies1ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 8 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/97378
-#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 9 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83621
-#EXTINF:-1 tvg-id="BEIN  SPORTS 1 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 1 FHD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936497
-#EXTINF:-1 tvg-id="BEIN  SPORTS 2 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 2 FHD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936498
-#EXTINF:-1 tvg-id="BEIN  SPORTS 3 FHD FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 3 FHD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936499
-#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 1 FHD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83619
-#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS 2 FHD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83618
-#EXTINF:-1 tvg-id="BEIN SPORTS  3 FHD EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS  3 FHD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936500
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS XTRA 1 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/216544
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS XTRA 2 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/216546
-#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS Xtra 3 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83620
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 4 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 4 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763621
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 5 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 5 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763620
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 6 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 6 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763619
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 7 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 7 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763618
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 8 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 8 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763617
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 9 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 9 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763616
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 10 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN SPORTS Xtra 10 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763615
-#EXTINF:-1 tvg-id="BEIN  SPORTS NBA FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS FHD",BEIN  SPORTS NBA FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936501
-#EXTINF:-1 tvg-id="BEIN  SPORTS NEWS HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS NEWS HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936503
-#EXTINF:-1 tvg-id="BEIN  SPORTS GLOBAL HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS GLOBAL HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936502
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83616
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83615
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 3 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83614
-#EXTINF:-1 tvg-id="beinsports4kar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 4 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83613
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 5 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83612
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 6 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83611
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 7 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83610
-#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 8 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/121347
-#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 9 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83608
-#EXTINF:-1 tvg-id="BEIN  SPORTS 1 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936504
-#EXTINF:-1 tvg-id="BEIN  SPORTS 2 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936505
-#EXTINF:-1 tvg-id="BEIN  SPORTS 3 HEVC FR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 3 HEVC FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936506
-#EXTINF:-1 tvg-id="BEIN  SPORTS 1 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 1 HEVC EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936507
-#EXTINF:-1 tvg-id="BEIN  SPORTS 2 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS 2 HEVC EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936508
-#EXTINF:-1 tvg-id="BEIN SPORTS  3 HEVC EN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS  3 HEVC EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936509
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS XTRA 1 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936510
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 2 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS XTRA 2 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936511
-#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS Xtra 3 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/83607
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 4 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 4 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763635
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 5 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 5 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763634
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 6 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 6 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763633
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 7 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 7 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763632
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 8 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 8 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763631
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 9 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 9 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763630
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 10 HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN SPORTS Xtra 10 HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763629
-#EXTINF:-1 tvg-id="BEIN  SPORTS NBA HEVC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS HEVC",BEIN  SPORTS NBA HEVC
-http://nettv.cx:80/anass457833/ypU5EZlMwd/936512
-#EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS NEWS HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33274
-#EXTINF:-1 tvg-id="beinsportsglobalar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS GLOBAL HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33275
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 1 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9480
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 1 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33261
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 2 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/13371
-#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 2 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33262
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 3 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9484
-#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 3 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33263
-#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 4 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9486
-#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 4 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33264
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 5 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9488
-#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 5 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33265
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 6 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9490
-#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 6 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33266
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 7 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9492
-#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 7 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33267
-#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS 8 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9494
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS 8 HD (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33268
-#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS 9 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9496
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS 9 (backup)
-http://nettv.cx:80/anass457833/ypU5EZlMwd/33269
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 1 HD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/132022
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 2 HD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193629
-#EXTINF:-1 tvg-id="beinsports3fr.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 3 HD FR
-http://nettv.cx:80/anass457833/ypU5EZlMwd/193630
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 1 HD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/132019
-#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS 2 HD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/132020
-#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS  3 HD EN
-http://nettv.cx:80/anass457833/ypU5EZlMwd/132021
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS XTRA 1 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/216540
-#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS XTRA 2 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/216542
-#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 3 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/9497
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 4 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 4 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763592
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 5 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 5 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763591
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 6 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 6 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763590
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 7 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 7 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763589
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 8 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 8 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763588
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 9 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 9 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763587
-#EXTINF:-1 tvg-id="BEIN SPORTS Xtra 10 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN SPORTS Xtra 10 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1763586
-#EXTINF:-1 tvg-id="beinsportsnbaar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS  HD",BEIN  SPORTS NBA HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/132018
-#EXTINF:-1 tvg-id="AR- Alwan Sport 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 1 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936522
-#EXTINF:-1 tvg-id="AR- Alwan Sport 1 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 1 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936521
-#EXTINF:-1 tvg-id="AR- Alwan Sport 1 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 1 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936520
-#EXTINF:-1 tvg-id="AR- Alwan Sport 2 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 2 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936519
-#EXTINF:-1 tvg-id="AR- Alwan Sport 2 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 2 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936518
-#EXTINF:-1 tvg-id="AR- Alwan Sport 2 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 2 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936517
-#EXTINF:-1 tvg-id="AR- Alwan Sport 3 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 3 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936516
-#EXTINF:-1 tvg-id="AR- Alwan Sport 3 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 3 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936515
-#EXTINF:-1 tvg-id="AR- Alwan Sport 3 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 3 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936514
-#EXTINF:-1 tvg-id="AR- Alwan Sport 4 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 4 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936513
-#EXTINF:-1 tvg-id="AR- Alwan Sport 4 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 4 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936512
-#EXTINF:-1 tvg-id="AR- Alwan Sport 4 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 4 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936511
-#EXTINF:-1 tvg-id="AR- Alwan Sport 5 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 5 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936510
-#EXTINF:-1 tvg-id="AR- Alwan Sport 5 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 5 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936509
-#EXTINF:-1 tvg-id="AR- Alwan Sport 5 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 5 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936508
-#EXTINF:-1 tvg-id="AR- Alwan Sport 6 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 6 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936507
-#EXTINF:-1 tvg-id="AR- Alwan Sport 6 HD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 6 HD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936506
-#EXTINF:-1 tvg-id="AR- Alwan Sport 6 SD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Sport 6 SD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936505
-#EXTINF:-1 tvg-id="AR- Alwan Turkey FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Turkey FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936499
-#EXTINF:-1 tvg-id="AR- Alwan Aflam 1 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Aflam 1 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936504
-#EXTINF:-1 tvg-id="AR- Alwan Aflam 2 FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Aflam 2 FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936503
-#EXTINF:-1 tvg-id="AR- Alwan Alwathaeqye FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Alwathaeqye FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936502
-#EXTINF:-1 tvg-id="AR- Alwan Atfal FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Atfal FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936501
-#EXTINF:-1 tvg-id="AR- Alwan Mosalsalat FHD" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="AR- ALWAN SPORTS",AR- Alwan Mosalsalat FHD
-http://nettv.cx:80/anass457833/ypU5EZlMwd/1936500
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",alwan1
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/30.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",alwan2
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/31.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",alwan3
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/32.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",alwan4
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/33.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",alwan5
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/34.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",bein1
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/4.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",bein2
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/5.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",bein3
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/6.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",bein4
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/7.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="alwan beim",bein5
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/8.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",LD SPORT CHEK
-http://streamcdn.us:8080/live/2258987179/9883697707/179614.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="SPORT",AVA SPORT
-http://109.71.252.138/AVASPORT2/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="SPORT",NRT SPORT
-http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="SPORT",KURISTAN SPORT
-http://streamcdn.us:8080/live/2258987179/9883697707/119582.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="SPORT",KURDISTAN SPORT F
-http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:72:AC:9B&stream=1310851&extension=ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="SPORT",ASO SPORT
-http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:72:AC:9B&stream=1310850&extension=ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",FALCON1
-http://streamcdn.us:8080/live/2258987179/9883697707/181073.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",FALCON2
-http://streamcdn.us:8080/live/2258987179/9883697707/181074.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",FALCON3
-http://streamcdn.us:8080/live/2258987179/9883697707/181075.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",MY SPORT1
-http://streamcdn.us:8080/live/2258987179/9883697707/181155.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",MY SPORT2
-http://streamcdn.us:8080/live/2258987179/9883697707/181156.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",POST1
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",POST2
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",all sport
-http://streamcdn.us:8080/live/2258987179/9883697707/181141.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",ALWAN1 4K
-http://streamcdn.us:8080/live/2258987179/9883697707/180953.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",ALWAN2 4K
-http://streamcdn.us:8080/live/2258987179/9883697707/180954.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",ALWAN3 4K
-http://streamcdn.us:8080/live/2258987179/9883697707/180955.ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 1 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 1 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=89259&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 1 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112484&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 2 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 2 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=89263&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 2 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 2 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112423&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 3 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 3 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=89265&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 3 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 3 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112292&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 4 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 4 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=89264&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 4 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 4 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112471&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 5 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 5 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112157&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 5 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 5 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=112323&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 6 HD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 6 HD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00%3A1A%3A79%3ACF%3A8A%3A51&stream=112158&extension=ts
-#EXTINF:-1 tvg-id="|AR| BEIN SPORTS 6 FHD (50 FPS)" tvg-logo="noimage.png" group-title="BEIN CONNECT",|AR| BEIN SPORTS 6 FHD (50 FPS)
-http://qwertytv.net:80/play/live.php?mac=00%3A1A%3A79%3ACF%3A8A%3A51&stream=112148&extension=ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="BEIN CONNECT",BEIN TOD
-http://qwertytv.net:80/play/live.php?mac=00:1a:79:cf:8a:51&stream=89267&extension=ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RUDAW.png" group-title="KURDISH FOREVER",K- Rudaw 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527758
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="KURDISH FOREVER",K- K24 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527759
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="KURDISH FOREVER",K- NRT 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527760
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="KURDISH FOREVER",K- Channel 8 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527761
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KNN.png" group-title="KURDISH FOREVER",K- KNN 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527762
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.SORANI.png" group-title="KURDISH FOREVER",K- Kurdmax Sorani 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527763
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="KURDISH FOREVER",K- Kurdmax Show Sorani 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527764
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARIN.FAMILY.png" group-title="KURDISH FOREVER",K- Barin Family 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527765
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARIN.MOVIES.png" group-title="KURDISH FOREVER",K- Barin Movies 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527766
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="KURDISH FOREVER",K- Astera Family 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527767
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="KURDISH FOREVER",K- Astera Show 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527768
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.DRAMA.png" group-title="KURDISH FOREVER",K- Aro Drama 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527770
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="KURDISH FOREVER",K- Aro Family 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527771
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="KURDISH FOREVER",K- Aro Kids 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527772
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="KURDISH FOREVER",K- K24 Documentary 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527774
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="KURDISH FOREVER",K- Afarin Kids 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527775
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hMwjgzp/Asset-497-8x.png" group-title="KURDISH FOREVER",K- Dasinya Kids 4K
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527776
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="KURDISH FOREVER",K- K24
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527778
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="KURDISH FOREVER",K- NRT 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527779
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.png" group-title="KURDISH FOREVER",K- Kurdsat TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527780
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="KURDISH FOREVER",K- Channel 8 Kurdish
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527781
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" group-title="KURDISH FOREVER",K- Payam
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527782
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KNN.png" group-title="KURDISH FOREVER",K- KNN
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527783
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAGROS.png" group-title="KURDISH FOREVER",K- Zagros TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527784
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PSHDAR.png" group-title="KURDISH FOREVER",K- LD Pshdar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527785
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GALI.KURDISTAN.png" group-title="KURDISH FOREVER",K- Gali Kurdistan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527787
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GASHA.FAMILY.png" group-title="KURDISH FOREVER",K- BNAR MOVIES HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527788
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZED.PLUS.png" group-title="KURDISH FOREVER",K- ZED Plus
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527789
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZED.png" group-title="KURDISH FOREVER",K- Zed HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527790
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT2.png" group-title="KURDISH FOREVER",K- NRT 2 Sorani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527792
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT3.png" group-title="KURDISH FOREVER",K- NRT 3 Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527793
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NRT4.png" group-title="KURDISH FOREVER",K- NRT 4
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527794
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.KIDS.png" group-title="KURDISH FOREVER",K- Niga Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527795
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.FAMILY.png" group-title="KURDISH FOREVER",K- Niga Family
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527796
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIGA.MOVIES.png" group-title="KURDISH FOREVER",K- Niga Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527797
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPEDA.png" group-title="KURDISH FOREVER",K- Speda
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527798
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPEDA.DRAMA.png" group-title="KURDISH FOREVER",K- Speda  Drama
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527799
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.MOVIES.png" group-title="KURDISH FOREVER",K-Newline Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527800
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.BOLLYWOOD.png" group-title="KURDISH FOREVER",K-Newline Bollywood
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527801
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.DRAMA.png" group-title="KURDISH FOREVER",K-Newline Drama
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527802
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.KIDS.png" group-title="KURDISH FOREVER",K-Newline Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527803
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZOOM.png" group-title="KURDISH FOREVER",K- Zoom TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527804
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- Kurdana
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527805
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/WAAR.png" group-title="KURDISH FOREVER",K- WAAR
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527806
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- MTV Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527807
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIROJKIDS.png" group-title="KURDISH FOREVER",K- Niroj Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527808
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="KURDISH FOREVER",K- KURD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527809
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NIROJ.png" group-title="KURDISH FOREVER",K- Niroj
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527810
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOYA.png" group-title="KURDISH FOREVER",K- Koya
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527811
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KHAK.png" group-title="KURDISH FOREVER",K- Khak
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527812
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- NEW HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527813
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- MTV Music
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527814
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KIDCOHD.png" group-title="KURDISH FOREVER",K- kidco hd
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527815
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A2.png" group-title="KURDISH FOREVER",K- A2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527816
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.ALL.png" group-title="KURDISH FOREVER",K- Qalam TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527817
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.AYNI.png" group-title="KURDISH FOREVER",K- Qalam Ayni
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527818
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.GEOGRAPHIC.png" group-title="KURDISH FOREVER",K- Qalam geoghraphic
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527819
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAM.KIDS.png" group-title="KURDISH FOREVER",K- Qalam kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527820
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="KURDISH FOREVER",K- K 24 DOC
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527821
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RASAN.png" group-title="KURDISH FOREVER",K- Rasan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527822
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A.TV.png" group-title="KURDISH FOREVER",K- ATV KURD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527823
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AVA.ENTERTAINMENT.png" group-title="KURDISH FOREVER",K- AVA Entertainment
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527824
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SILEMANI.png" group-title="KURDISH FOREVER",K- Slemani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527826
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SHAISTA.png" group-title="KURDISH FOREVER",K- Shaista
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527827
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.KURMANJI.png" group-title="KURDISH FOREVER",K- KurdMax Kurmanji
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527828
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.png" group-title="KURDISH FOREVER",K- KurdMax Sorani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527829
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.PAPULA.png" group-title="KURDISH FOREVER",K- Kurdmax Pepula
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527830
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.KURMANJI.png" group-title="KURDISH FOREVER",K- Kurdmax Show Kurmanji
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527831
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="KURDISH FOREVER",K- KurdMax Show Sorani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527832
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.MUSIC.png" group-title="KURDISH FOREVER",K- Kurdmax Music
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527833
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LAWAN.png" group-title="KURDISH FOREVER",K- Lawan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527834
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/4KURD.png" group-title="KURDISH FOREVER",K- 4 Kurd
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527835
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SADA.png" group-title="KURDISH FOREVER",K- SADA
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527836
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SAHAR.png" group-title="KURDISH FOREVER",K- Sahar Kurdi
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527837
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KERKUK.png" group-title="KURDISH FOREVER",K- Kirkuk
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527838
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JUDI.png" group-title="KURDISH FOREVER",K- Judi
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527839
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JOJO.MAMA.png" group-title="KURDISH FOREVER",K- JoJo MaMa
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527840
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="KURDISH FOREVER",K- Aro Family
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527842
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.DRAMA.png" group-title="KURDISH FOREVER",K- Aro Drama
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527843
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="KURDISH FOREVER",K- Aro Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527844
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ALLA.png" group-title="KURDISH FOREVER",K- ALLA
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527846
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BASK.png" group-title="KURDISH FOREVER",K- BASK
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527848
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.KIDS.png" group-title="KURDISH FOREVER",K- Dasinya kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527849
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="KURDISH FOREVER",K- FOX
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527851
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ALA.png" group-title="KURDISH FOREVER",K- Ala
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527852
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/4ANIME.png" group-title="KURDISH FOREVER",K- 4 Anime
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527853
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/A.AMOZHGARY.png" group-title="KURDISH FOREVER",K- A.Amozhgary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527855
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AMOZHGARY.png" group-title="KURDISH FOREVER",K- Amozhgary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527856
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="KURDISH FOREVER",K- Aryen TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527857
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.BABY.png" group-title="KURDISH FOREVER",K- Astera Baby
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527858
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.DOCUMENTARY.png" group-title="KURDISH FOREVER",K- Astera Documentary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527859
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="KURDISH FOREVER",K- Astera Family
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527860
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.MOVIES.png" group-title="KURDISH FOREVER",K- Astera Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527861
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="KURDISH FOREVER",K- Astera Show
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527862
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BABOLY.png" group-title="KURDISH FOREVER",K- Baboly
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527864
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZ.png" group-title="KURDISH FOREVER",K- Bangawaz
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527865
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BMC.png" group-title="KURDISH FOREVER",K- BMC
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527866
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CIHAN.png" group-title="KURDISH FOREVER",K- Cihan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527867
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/CIRA.png" group-title="KURDISH FOREVER",K- Cira TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527868
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DERIN.png" group-title="KURDISH FOREVER",K- Derin
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527871
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="KURDISH FOREVER",K- Derwaze
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527872
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DIMEN.png" group-title="KURDISH FOREVER",K- Dimen
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527873
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="KURDISH FOREVER",K- Duhok
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527874
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HELHELOK.png" group-title="KURDISH FOREVER",K- Helhelok
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527875
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/IRAQIA.KURD.png" group-title="KURDISH FOREVER",K- Iraqia Kurd
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527876
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ISHTAR.png" group-title="KURDISH FOREVER",K- Ishtar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527877
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JIN.png" group-title="KURDISH FOREVER",K- Jin
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527878
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMAL.RANYA.png" group-title="KURDISH FOREVER",K- Komal Ranya
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527880
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMAL.png" group-title="KURDISH FOREVER",K- Komall
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527881
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" group-title="KURDISH FOREVER",K- KRD WWE
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527882
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="KURDISH FOREVER",K- KURD MOVIES
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527883
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.FAMILY.png" group-title="KURDISH FOREVER",K- LD Family
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527884
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.KURD.CINEMA.png" group-title="KURDISH FOREVER",K- LD Kurdcinema
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527885
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.KIDS.png" group-title="KURDISH FOREVER",K- MMN Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527886
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.NUJIN.png" group-title="KURDISH FOREVER",K- LD Nujin
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527887
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MEDMUSIC.png" group-title="KURDISH FOREVER",K- Med Music
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527888
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="KURDISH FOREVER",K- Mihrab
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527889
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MINARA.png" group-title="KURDISH FOREVER",K- Minara
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527890
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.png" group-title="KURDISH FOREVER",K- NewLine
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527891
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE2.png" group-title="KURDISH FOREVER",K- Newline 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527892
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="KURDISH FOREVER",K- NewMax Box Office 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527893
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" group-title="KURDISH FOREVER",K- Nubar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527894
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PARWARDAY.DUHOK.png" group-title="KURDISH FOREVER",K- Parwardayi Duhok
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527895
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SOZ.png" group-title="KURDISH FOREVER",K- Soz
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527896
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SOZQURAN.png" group-title="KURDISH FOREVER",K- SOZ QURAN
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527897
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EZDAN.png" group-title="KURDISH FOREVER",K- Ezdan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527898
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QALAT.png" group-title="KURDISH FOREVER",K- Qalat
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527899
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="KURDISH FOREVER",K- Mihrab FM
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527900
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RANIA.png" group-title="KURDISH FOREVER",K- Ranya
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527901
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RENG.DOCUMENTARY.png" group-title="KURDISH FOREVER",K- Reng Document
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527902
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RENG.png" group-title="KURDISH FOREVER",K- Reng
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527903
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ROJAVA.png" group-title="KURDISH FOREVER",K- Rojava
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527904
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/RONAHI.png" group-title="KURDISH FOREVER",K- Ronahi
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527905
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SHAKROK.png" group-title="KURDISH FOREVER",K- Shakrok
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527906
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/STERK.png" group-title="KURDISH FOREVER",K- Sterk
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527907
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/TASAWUF.png" group-title="KURDISH FOREVER",K- tasawf
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527908
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/TRT.KURDI.png" group-title="KURDISH FOREVER",K- TRT KURDI
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527909
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KURDISH FOREVER",K- U TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527910
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="KURDISH FOREVER",K- U2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527911
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KURDISH FOREVER",K- UTV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527912
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAROK.SORANI.png" group-title="KURDISH FOREVER",K- Zarok Sorani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527913
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZNAR.png" group-title="KURDISH FOREVER",K- Znar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527914
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="KURDISH FOREVER",K- Binar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527916
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINBAXCHA.png" group-title="KURDISH FOREVER",K- AFARIN BAXCHA
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527917
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="KURDISH FOREVER",K- Afarin Kids
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527918
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- MTV Family
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527919
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KANI.png" group-title="KURDISH FOREVER",K- Kani
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527920
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KOMALA.MEDIA.NETWORK.png" group-title="KURDISH FOREVER",KOMALA Media Network
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527921
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="KURDISH FOREVER",K- KURD CHANNEL
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527923
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.SPORT.png" group-title="KURDISH FOREVER",K- Newline Sport
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527924
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.ANIME.png" group-title="KURDISH FOREVER",K- LD Anime
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527925
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMNCLASSIC.png" group-title="KURDISH FOREVER",K- MMN Classic Musical
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527926
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.CLIP.png" group-title="KURDISH FOREVER",K- MMN Clip
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527927
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.DOCUMENTARY.png" group-title="KURDISH FOREVER",K- MMN Documentary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527928
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.NEWS.png" group-title="KURDISH FOREVER",K- MMN News
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527929
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.MOVIES.png" group-title="KURDISH FOREVER",K- MMN Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527930
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMNRADIOFARSI.png" group-title="KURDISH FOREVER",K- MMN Radio Farsy
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527931
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.RADIOTURKEY.png" group-title="KURDISH FOREVER",K- MMN Radio Turkey
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527932
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.SHOW.png" group-title="KURDISH FOREVER",K- MMN Show
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527933
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="KURDISH FOREVER",K- MMN ACTION
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527935
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="KURDISH FOREVER",K- MMN DRAMA
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527936
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="KURDISH FOREVER",K- MNN ACTION
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527938
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NOOR.png" group-title="KURDISH FOREVER",K- Noor
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527939
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ONE.png" group-title="KURDISH FOREVER",K- One World
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527941
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ROZH.png" group-title="KURDISH FOREVER",K- Rozh
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527942
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.png" group-title="KURDISH FOREVER",K- Sima
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527944
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.DOCUMENTARY.png" group-title="KURDISH FOREVER",K- Sima Documentary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527945
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SIMA.MOVIES.png" group-title="KURDISH FOREVER",K- Sima Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527946
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="KURDISH FOREVER",K- Zaxo
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527948
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BADINIMOVIES.png" group-title="KURDISH FOREVER",K- Forever Badini Movies
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527950
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BADINISERIES.png" group-title="KURDISH FOREVER",K- Forever Badini Series
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527951
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KURDISH FOREVER",K- Forever Cartoon 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527952
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KURDISH FOREVER",K- Forever Cartoon 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527953
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KURDISH FOREVER",K- Forever Cartoon 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527954
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KURDISH FOREVER",K- Forever Cartoon 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527955
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="KURDISH FOREVER",K- Forever Cartoon 3
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527956
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/TOMANDJERRY.png" group-title="KURDISH FOREVER",K- Forever Tom & Jerry
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527957
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION1.png" group-title="KURDISH FOREVER",K- Kurdcinema Action 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527958
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMAACTION2.png" group-title="KURDISH FOREVER",K- Kurdcinema Action 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527959
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION3.png" group-title="KURDISH FOREVER",K- Kurdcinema Action 3
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527960
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="KURDISH FOREVER",K- NewMax Box Office
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527961
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KURDISH FOREVER",K-Forever Cinema 1
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527962
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KURDISH FOREVER",K-Forever Cinema 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527963
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="KURDISH FOREVER",K-Forever Cinema 3
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527964
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOREVERFISHING.png" group-title="KURDISH FOREVER",K-Forever Fishing
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527965
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="KURDISH FOREVER",K-Forever Kurdistan Nature
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527966
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/PINK.PANTER.png" group-title="KURDISH FOREVER",K-Forever Pink Panther
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527967
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/MUHAMMAD.MALA.FAYAQ.png" group-title="KURDISH FOREVER",K- Muhammad Mala Fayaq
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527968
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZHYANNAMA.png" group-title="KURDISH FOREVER",K- Zhyan Nama
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527969
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EKURD.png" group-title="KURDISH FOREVER",K- EUROKURD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527970
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NISHTIMANYMN.png" group-title="KURDISH FOREVER",K- Nishtimany mn
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527971
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.AZHIN.png" group-title="KURDISH FOREVER",K- LD AZHIN
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527972
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZEN.BADINAN.png" group-title="KURDISH FOREVER",K- Bangxwazen Badinan
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527973
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ADNANWLINA.jpg" group-title="KURDISH FOREVER",K- Adnan Wa Lina
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527974
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARNAMAYBARNAMA.png" group-title="KURDISH FOREVER",K- Barnmay Barnama
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527975
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BAZMIBAZM.png" group-title="KURDISH FOREVER",K- Bazmi Bazm
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527976
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DRAMAY3BA4.png" group-title="KURDISH FOREVER",K- Dramay 3 ba 4
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527977
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/MRBEAN.png" group-title="KURDISH FOREVER",K- Mr. Bean Kurdish
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527978
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/QAQA.png" group-title="KURDISH FOREVER",K- Qaqa
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527979
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="KURDISH FOREVER",K-KURD MOVIES
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527982
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HALABJA.png" group-title="KURDISH FOREVER",K- Halabja
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527984
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.LIFE.png" group-title="KURDISH FOREVER",K- LD LIFE
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527985
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="KURDISH FOREVER",K- Gewhar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527986
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KALAPUR.png" group-title="KURDISH FOREVER",K- Kalapur
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527987
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/JAMAWAR.png" group-title="KURDISH FOREVER",Jamawar TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527988
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AKILLI.png" group-title="KURDISH FOREVER",K- Akili TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527989
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="KURDISH FOREVER",K- Asman
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527990
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASTERA.CULTUR.png" group-title="KURDISH FOREVER",K- Astera Culture
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527991
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BAHA.png" group-title="KURDISH FOREVER",K- Baha Entertainment HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527992
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BARINQURAN.png" group-title="KURDISH FOREVER",K- Barin Quran
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527993
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.png" group-title="KURDISH FOREVER",K- Dasinya HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527994
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DASINYA.MUSIC.png" group-title="KURDISH FOREVER",K- Dasinya Music
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527995
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DELAL.png" group-title="KURDISH FOREVER",K- Delal TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527996
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="KURDISH FOREVER",K- Duhok TV HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527997
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LOCAL.FIRST.png" group-title="KURDISH FOREVER",K- First
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527998
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="KURDISH FOREVER",K- Fox HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1527999
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/HUNAR.png" group-title="KURDISH FOREVER",K- Hunar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528000
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMA.png" group-title="KURDISH FOREVER",K- Kurdcinema
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528001
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/PARWARDAI.HAWLER.png" group-title="KURDISH FOREVER",K- Parwardai Hawler HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528002
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SRUSHT.png" group-title="KURDISH FOREVER",K- Srusht
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528003
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="KURDISH FOREVER",K- UTV 2
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528004
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="KURDISH FOREVER",K- UTV DUHOK  HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528005
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- Garyan TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528006
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/NEXTTV.png" group-title="KURDISH FOREVER",k- Next TV
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528007
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ASHTI.png" group-title="KURDISH FOREVER",K- Ashti tv
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528008
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/SPI.png" group-title="KURDISH FOREVER",K- Spi HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528009
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- Shar tv
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528010
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/IMKQURAN.png" group-title="KURDISH FOREVER",K- IMK Quran
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528011
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/11ADARE.png" group-title="KURDISH FOREVER",K- 11 adare
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528012
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/BEFRIN.png" group-title="KURDISH FOREVER",K- BEFRIN HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528013
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/FARMODA.png" group-title="KURDISH FOREVER",K- Farmoda
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528014
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/AVAR.png" group-title="KURDISH FOREVER",K- Avar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528015
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",K- Rojgar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528016
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/EMAN.png" group-title="KURDISH FOREVER",K- Eman
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528017
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/DEVER.png" group-title="KURDISH FOREVER",K- Dever
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528018
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" group-title="KURDISH FOREVER",K- Xabir
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528019
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="KURDISH FOREVER",K- Zaxo HD
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528020
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/ZHYAR.png" group-title="KURDISH FOREVER",K- Zhyar
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528021
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="KURDISH FOREVER",K- Forever Documentary
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528022
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/FDWFDnC/aryan.jpg" group-title="KURDISH FOREVER",ANIMAL BOX
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528023
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH FOREVER",KURD 7
+http://nexon.flixip.vip:80/ev0tqsn83i/7cyu7whrdd/1528024
+#EXTINF:-1 tvg-id="####### KURDISH DVB-T ᶠ ᴴᴰ #######" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",####### KURDISH DVB-T ᶠ ᴴᴰ #######
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310905&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: FAMILY RAPARIN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: FAMILY RAPARIN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310904&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: LALAV GROUP TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: LALAV GROUP TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310903&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ZED ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ZED ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310902&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ZED+ ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ZED+ ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310901&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NIGA FAMILY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NIGA FAMILY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310900&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RENG FAMILY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RENG FAMILY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310899&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NEWLINE 1 ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NEWLINE 1 ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310898&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NEWLINE 2 ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NEWLINE 2 ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310897&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA FAMILY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA FAMILY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310896&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RASAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RASAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310895&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BMC ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BMC ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310894&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: KHAK ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: KHAK ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310893&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: DASINYA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: DASINYA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310892&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BAHA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BAHA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310891&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: DUHOK TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: DUHOK TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310890&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BANGXWAZEN BADINAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BANGXWAZEN BADINAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310889&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MINARA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MINARA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310888&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: QELLAT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: QELLAT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310887&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: KURDANA 4K TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: KURDANA 4K TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310886&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ESTA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ESTA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310885&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BEFRIN TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BEFRIN TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310884&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: HALABJA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: HALABJA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310883&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: HORMZYAR ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: HORMZYAR ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310882&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ARIFAN DOC ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ARIFAN DOC ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310881&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BARIN ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BARIN ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310880&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: EURO KURD TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: EURO KURD TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310879&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: KMP ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: KMP ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310878&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: K21 ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: K21 ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310877&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NUBAR TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NUBAR TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310876&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ZEVER TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ZEVER TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310875&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ZAXO ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ZAXO ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310874&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: AZADI SPORT TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: AZADI SPORT TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310873&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MAHABAD ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MAHABAD ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310872&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN NEWS ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN NEWS ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310871&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ARIFAN SUNNAH ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ARIFAN SUNNAH ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310870&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN SHOW ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN SHOW ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310869&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BNAR ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BNAR ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310868&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: DERIN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: DERIN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310867&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA DOCUMENTARY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA DOCUMENTARY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310866&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA CULTURE ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA CULTURE ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310865&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RENG DOCUMENTARY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RENG DOCUMENTARY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310864&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN DOCUMENTARY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN DOCUMENTARY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310863&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ONE WORLD ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ONE WORLD ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310862&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: KURDMAX MUSIC ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: KURDMAX MUSIC ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310861&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RENG MUSIC ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RENG MUSIC ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310860&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: 4 KURD TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: 4 KURD TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310859&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN CLIP ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN CLIP ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310858&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN CLASSIC MUSICAL ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN CLASSIC MUSICAL ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310857&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: DANGE ZALAL TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: DANGE ZALAL TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310856&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: AVA SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: AVA SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310855&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: 4SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: 4SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310854&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NRT SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NRT SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310853&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RENG SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RENG SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310852&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: KURDISTAN SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: KURDISTAN SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310851&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASO SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASO SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310850&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NUBAR SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NUBAR SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310849&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MOTOR 1 ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MOTOR 1 ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310848&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN SPORT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN SPORT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310847&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: AFARIN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: AFARIN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310846&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: AFARIN BAXCHA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: AFARIN BAXCHA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310845&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA BABY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA BABY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310844&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RENG KIDS ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RENG KIDS ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310843&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NIGA KIDS ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NIGA KIDS ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310842&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN KIDS ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN KIDS ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310841&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NR 1 TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NR 1 TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310840&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: EVIN TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: EVIN TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310839&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SPI QURAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SPI QURAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310838&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RADIO AFARIN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RADIO AFARIN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310837&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RAMAN ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RAMAN ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310836&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SADA TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SADA TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310835&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: RAVAND ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: RAVAND ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310834&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BASK ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BASK ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310833&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BANGXWAZEN BADINAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BANGXWAZEN BADINAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310832&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN QURAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN QURAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310831&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SHAR TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SHAR TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310830&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SPI TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SPI TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310829&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: IMK TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: IMK TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310828&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ISHTAR TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ISHTAR TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310827&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: JUDY ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: JUDY ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310826&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: UTV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: UTV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310825&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SRUSHT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SRUSHT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310824&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MIHRAB TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MIHRAB TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310823&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MIHRAB FM ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MIHRAB FM ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310822&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASMAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASMAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310821&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA MOVIES ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA MOVIES ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310820&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ASTERA SHOW ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ASTERA SHOW ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310819&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NIGA MOVIES ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NIGA MOVIES ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310818&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SPEDA DRAMA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SPEDA DRAMA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310817&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: NUBER PLUS ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: NUBER PLUS ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310816&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN MOVIES ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN MOVIES ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310815&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: ANIMAL BOX ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: ANIMAL BOX ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310814&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN DRAMA ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN DRAMA ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310813&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: MMN ACTION ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: MMN ACTION ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310812&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BNAR MOVIES ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BNAR MOVIES ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310811&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BARIN QURAN ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BARIN QURAN ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310810&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SHNA TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SHNA TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310809&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: WALLA TV ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: WALLA TV ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310808&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: BARIN MOVIES ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: BARIN MOVIES ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310807&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: SORAN ENTERTAINMENT ᶠ ᴴᴰ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: SORAN ENTERTAINMENT ᶠ ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310806&extension=ts
+#EXTINF:-1 tvg-id="DVB-T: DUHOK ᶠ ᴿᴬᵂ" tvg-logo="noimage.png" group-title="KU| KURDISH DVB-T ᶠ ᴴᴰ",DVB-T: DUHOK ᶠ ᴿᴬᵂ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1310805&extension=ts
 #EXTINF:-1 tvg-id="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",AVA Sport 4K
 http://109.71.252.138/Avasport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-id="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",NRT Sport 4K
@@ -1275,6 +1033,94 @@ http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore....iptvfreee
 http://109.71.252.138/Duhoksport/video.m3u8?token=yusfstaore....iptvfreee
 #EXTINF:-1 tvg-id="Zaxo Sport" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="Kurdish Sports",Zaxo Sport
 http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore....iptvfreee
-#EXTINF:-1 tvg-id="ld sport" tvg-logo="noimage.png" group-title="Kurdish Sports",ld sport
-http://109.71.252.138/ldsport/video.m3u8?token=yusfstaore....iptvfreee
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",Aso sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527915.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527825.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Kurdish Sports",Duhok sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527850.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",Kurdistan sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527786.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport cheak
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527791.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT1
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/4.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT2
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/5.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT3
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/6.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT4
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/7.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT5
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/8.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="BEIN SPORT",BEIN SPORT6
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/9.ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 1 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 1 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201199&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 2 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 2 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201198&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 3 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 3 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201197&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 4 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 4 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201196&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 5 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 5 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201195&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 6 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 6 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201194&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 7 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 7 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201193&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 8 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 8 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201192&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 9 ᴴᴰ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 9 ᴴᴰ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201191&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 1 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 1 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201183&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 2 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 2 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201182&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 3 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 3 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201181&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 4 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 4 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201180&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 5 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 5 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201179&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 6 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 6 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201178&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 7 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 7 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201177&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 8 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 8 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201176&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 9 SD" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 9 SD
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201175&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 1 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 1 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201159&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 2 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 2 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201158&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 3 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 3 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201157&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 4 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 4 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201156&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 5 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 5 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201155&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 6 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 6 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201154&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201153&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 8 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 8 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201152&extension=ts
+#EXTINF:-1 tvg-id="NM: beIN SP⚽RTS 9 ʰᵉᵛᶜ" tvg-logo="noimage.png" group-title="AR| BEIN SPORTS ᴺᴹ ⚽",NM: beIN SP⚽RTS 9 ʰᵉᵛᶜ
+http://pro.business-cdn-8kpro.ru:80/play/live.php?mac=00%3A1A%3A79%3A85%3A7B%3AC7&stream=1201151&extension=ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN SPORT",ALWAN SPORT1
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/30.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT2
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/31.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN SPORT",ALWAN SPORT3
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/32.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN SPORT",ALWAN SPORT4
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/33.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN SPORT",ALWAN SPORT5
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/34.ts
 
