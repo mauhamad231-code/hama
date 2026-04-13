@@ -824,11 +824,11 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:-1 tvg-id="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:-1 tvg-id="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",AVA Sport 4K
-http://109.71.252.138/Avasport/video.m3u8?token=yusfstaore....iptvfreee
+http://forevertv.me:8080/M45Mag7qp7qO1Y/XpSEebTMMpn36C/438124
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825.ts
 #EXTINF:-1 tvg-id="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",NRT Sport 4K
-http://1.fatv.vip:80/67890/67890/409567
+http://dana-tv.com:8080/sameerxothman/hd83392023/392639
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",ASO SPORT 4K
@@ -841,6 +841,8 @@ http://1.fatv.vip:80/67890/67890/409622
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport
 http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",LD SPORT CHKE 4K
+http://dana-tv.com:8080/sameerxothman/hd83392023/392626
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport cheak
 http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980.ts
 #EXTINF:-1 tvg-id="Duhok Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Kurdish Sports",Duhok Sport HD
@@ -891,10 +893,6 @@ http://myhand.org:8080/17925628357934/35243799209847/752090
 http://myhand.org:8080/17925628357934/35243799209847/106139
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="Kurdish Sports HD | 4K",Local: Zaxo Sport
 http://myhand.org:8080/17925628357934/35243799209847/427838
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/bein_sports_.png" group-title="Bein Sports 4K",BeIN Sports News 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017029
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein.png" group-title="Bein Sports 4K",BeIN Sports Global 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017089
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/bein4k_logo.jpg" group-title="Bein Sports 4K",Bein 4K & HDR
 http://myhand.org:8080/17925628357934/35243799209847/1017027
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="Bein Sports 4K",BeIN Sports 1 4K
@@ -919,50 +917,6 @@ http://myhand.org:8080/17925628357934/35243799209847/1017023
 http://myhand.org:8080/17925628357934/35243799209847/1017028
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_English_2.png" group-title="Bein Sports 4K",BeIN Sports English 2 4K
 http://myhand.org:8080/17925628357934/35243799209847/1017052
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/BeIN_Sports_French_1.png" group-title="Bein Sports 4K",BeIN Sports French 1 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017032
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/beIN_SPORTS2_FRENCH_2.png" group-title="Bein Sports 4K",BeIN Sports French 2 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017034
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_XTRA_1.png" group-title="Bein Sports 4K",BeIN Sports Xtra 1 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017045
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_XTRA_2.png" group-title="Bein Sports 4K",BeIN Sports Xtra 2 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017046
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_XTRA_3.png" group-title="Bein Sports 4K",BeIN Sports Xtra 3 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017009
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/beIN_SPORTS_XTRA_04.png" group-title="Bein Sports 4K",Bein Sports Xtra 4 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017004
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/beIN_SPORTS_XTRA_05.png" group-title="Bein Sports 4K",Bein Sports Xtra 5 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017057
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/beIN_SPORTS_XTRA_06.png" group-title="Bein Sports 4K",Bein Sports Xtra 6 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017059
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/bein_XTRA.png" group-title="Bein Sports 4K",Bein Sports Xtra 7 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017005
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/bein_XTRA.png" group-title="Bein Sports 4K",Bein Sports Xtra 8 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017007
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/bein_XTRA.png" group-title="Bein Sports 4K",Bein Sports Xtra 9 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017010
-#EXTINF:-1 tvg-id="alkassone.qa" tvg-logo="https://safiafamily.com/uploads/family/Arabic_Sports/Bein_Alkass_1_HD.png" group-title="Bein Sports 4K",BeIN Alkass 1 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017040
-#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-logo="https://safiafamily.com/uploads/family/Arabic_Sports/Bein_Alkass_2_HD.png" group-title="Bein Sports 4K",BeIN Alkass 2 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017042
-#EXTINF:-1 tvg-id="alkassthree.qa" tvg-logo="https://safiafamily.com/uploads/family/Arabic_Sports/Bein_Alkass_3_HD.png" group-title="Bein Sports 4K",BeIN Alkass 3 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017043
-#EXTINF:-1 tvg-id="alkassfour.qa" tvg-logo="https://safiafamily.com/uploads/family/Arabic_Sports/Bein_Alkass_4_HD.png" group-title="Bein Sports 4K",BeIN Alkass 4 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017044
-#EXTINF:-1 tvg-id="alkassfive.qa" tvg-logo="https://safiafamily.com/uploads/family/Arabic_Sports/Bein_Alkass_5_HD.png" group-title="Bein Sports 4K",BeIN Alkass 5 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017058
-#EXTINF:-1 tvg-id="alkasssix.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/2023_Alkass_6.png" group-title="Bein Sports 4K",BeIN Alkass 6 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017060
-#EXTINF:-1 tvg-id="alkassseven.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/2023_Alkass_7.png" group-title="Bein Sports 4K",BeIN Alkass 7 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017062
-#EXTINF:-1 tvg-id="alkasseight.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/2023_Alkass_8.png" group-title="Bein Sports 4K",BeIN Alkass 8 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017064
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Alkass.png" group-title="Bein Sports 4K",BeIN Alkass 9 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017065
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Alkass.png" group-title="Bein Sports 4K",BeIN Alkass 10 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017066
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_NBA.png" group-title="Bein Sports 4K",BeIN Sports NBA 4K
-http://myhand.org:8080/17925628357934/35243799209847/1017000
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.seeklogo.com/logo-png/24/1/bein-sport-1-logo-png_seeklogo-249530.png" group-title="AR | ⚽ BEIN SPORTS HEVC",BeIN Sports 1 Hevc✦
 http://nova4k.xyz:80/31476857598448/25889573878220/1538549
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.seeklogo.com/logo-png/24/1/bein-sport-1-logo-png_seeklogo-249530.png" group-title="AR | ⚽ BEIN SPORTS HEVC",BeIN Sports 2 Hevc✦
@@ -1175,16 +1129,6 @@ http://superxvip.tv:8080/xzeyadxhayder/205487/467145
 http://superxvip.tv:8080/xzeyadxhayder/205487/467144
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.asc.vg/alwan.alriyadia10.sport.png" group-title="Alwan ⚽ Sports",Alwan Sport 10 4K
 http://superxvip.tv:8080/xzeyadxhayder/205487/467143
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN SPORT",ALWAN SPORT1
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/30.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT2
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/31.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN SPORT",ALWAN SPORT3
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/32.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN SPORT",ALWAN SPORT4
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/33.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN SPORT",ALWAN SPORT5
-https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/34.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="POST SPORT TV",POST SPORT 1 SD
 http://herevip.pro:80/serial_186611/13914938267b8bc2c2cae3/687466
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="POST SPORT TV",POST SPORT 2 SD
