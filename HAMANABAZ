@@ -819,74 +819,118 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:-1 tvg-id="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1 tvg-id="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",AVA Sport 4K
-http://dana-tv.com:8080/sameerxothman/hd83392023/392644
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825.ts
-#EXTINF:-1 tvg-id="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",NRT Sport 4K
-http://dana-tv.com:8080/sameerxothman/hd83392023/392639
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",ASO SPORT 4K
-http://otx.arabitv5.com:8000/live/alaaelkhader/Juzhu8zuGdzv6/242498.ts
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527791.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",Aso sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527915.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",KURDISTAN SPORT 4K
-http://orien.live:80/anas698547/27032917289617/639127
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",Kurdistan sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport
 http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",LD SPORT CHKE 4K
-http://dana-tv.com:8080/sameerxothman/hd83392023/392626
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport cheak
 http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Kurdish Sports",Duhok sport
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527850.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",See sport1
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527943.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",See sport2
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527847.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",See sport3
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527841.ts
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsports1premiummea.png" group-title="beiN Sport AP",BEIN SPORTS 1 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52042
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsports2premiummea.png" group-title="beiN Sport AP",BEIN SPORTS 2 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52041
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsports3premiummea.png" group-title="beiN Sport AP",BEIN SPORTS 3 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52040
-#EXTINF:-1 tvg-id="100%tv.nl" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="beiN Sport AP",BEIN SPORTS 4 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52039
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="beiN Sport AP",BEIN SPORTS 5 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52038
-#EXTINF:-1 tvg-id="100%tv.nl" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="beiN Sport AP",BEIN SPORTS 6 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52037
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="beiN Sport AP",BEIN SPORTS 7 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52036
-#EXTINF:-1 tvg-id="100%tv.nl" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="beiN Sport AP",BEIN SPORTS 8 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52035
-#EXTINF:-1 tvg-id="100%tv.nl" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="beiN Sport AP",BEIN SPORTS 9 4K
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52034
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="beiN Sport AP",BEIN SPORT 1 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52019
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="beiN Sport AP",BEIN SPORT 2 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52018
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="beiN Sport AP",BEIN SPORT 3 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52017
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="beiN Sport AP",BEIN SPORT 4 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52015
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="beiN Sport AP",BEIN SPORT 5 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52014
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="beiN Sport AP",BEIN SPORT 6 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/52013
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beiN Sport AP",BEIN SPORT 7 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/223596
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beiN Sport AP",BEIN SPORT 8 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/223597
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beiN Sport AP",BEIN SPORT 9 4K*
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/223598
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-logo="https://logo.m3uassets.com/beinbaraem.png" group-title="beiN Sport AP",BEIN 4K BARCA
-http://otx.arabitv5.com:8000/alaaelkhader/Juzhu8zuGdzv6/61505
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: NRT Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358220
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Kurdistan Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358219
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Ava Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358221
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: See Sport 1
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358222
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: See Sport 2
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358223
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: See Sport 3
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358224
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Aro Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358225
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Duhok Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358226
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: 4 Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358227
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Astera Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358228
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: LD Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358229
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Dasinya Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358230
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: MTV Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358231
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU:Aso Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358232
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Newline Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358233
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: MMN SPORT
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358234
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: NUBAR SPORT
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358235
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: SIMA SPORT
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358236
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Zaxo Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358237
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: LD SPORT CHEAK
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358238
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sports 4K",KU: Delal Sport
+http://stariptv.org:8080/8c%3Aea%3A48%3A97%3Afc%3A3f/34480765444/358239
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT ①  4K
+http://blue4k.xyz:8880/424875755814/840474763638/96394
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT ⓵   FHD
+http://blue4k.xyz:8880/424875755814/840474763638/66
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT ➊ HD
+http://blue4k.xyz:8880/424875755814/840474763638/287734
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 1 A
+http://blue4k.xyz:8880/424875755814/840474763638/546682
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT 2  4k
+http://blue4k.xyz:8880/424875755814/840474763638/350213
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT 2  FHD
+http://blue4k.xyz:8880/424875755814/840474763638/65
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 2 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546683
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT 3  4k
+http://blue4k.xyz:8880/424875755814/840474763638/96396
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORT 3 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/64
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 3 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546684
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 4 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/73
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 4 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12347
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 4 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546685
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 5 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12348
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 5 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/72
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 5 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546686
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 6 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/71
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 6 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12349
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 6 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546687
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 7 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/70
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 7 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12350
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 7 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546688
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 8 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/69
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 8 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12351
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 8 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546689
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 9 FHD
+http://blue4k.xyz:8880/424875755814/840474763638/68
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 9 4K
+http://blue4k.xyz:8880/424875755814/840474763638/12352
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS ⚽ 4K",BEIN SPORTS 9 /720P
+http://blue4k.xyz:8880/424875755814/840474763638/546690
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Bein Sports MN",BEIN 4K HDR
 http://falcontvip.com:80/8267226568/9668644763/353892
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Bein Sports MN",beIN 4k
@@ -945,44 +989,6 @@ http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/193641
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/193642
 #EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/beinsports.png" group-title="AR- BEIN SPORTS 4K",BEIN  SPORTS 9 4K
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/193643
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/bein4k_logo.jpg" group-title="beIN SPORT 4K",Bein 4K & HDR
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67097
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="beIN SPORT 4K",beIN SPORT 1 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/56580
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 1 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44751
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORT 2 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67098
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 2 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44752
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-3-mea.png" group-title="beIN SPORT 4K",beIN SPORT 3 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67099
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 3 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44753
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-4-mea.png" group-title="beIN SPORT 4K",beIN SPORT 4 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67100
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 4 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44754
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-5-mea.png" group-title="beIN SPORT 4K",beIN SPORT 5 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67101
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-6-mea.png" group-title="beIN SPORT 4K",beIN SPORT 6 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67102
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 5 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44755
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 6 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44756
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/world-middle-east/bein-sports/bein-sports-7-mea.png" group-title="beIN SPORT 4K",beIN SPORT 7 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67103
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 7 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44757
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/68e05b33a6d8c.jpg" group-title="beIN SPORT 4K",beIN SPORT 8 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67104
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 8 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44758
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.paliptv.com/logo/uploads/68e05b0d57321.jpg" group-title="beIN SPORT 4K",beIN SPORT 9 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/67105
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="beIN SPORT 4K",beIN SPORTS 9 H265
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/44759
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://up.rq2.site/up/jFbLyS8Mqp9.png" group-title="BEIN SPORTS 4K G",BEIN SPORT 4 K
 http://1.fatv.vip:80/67890/67890/271896
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://up.rq2.site/up/aC9bhfiQx.png" group-title="BEIN SPORTS 4K G",BEIN SPORT 4 K (1080p)
@@ -1019,50 +1025,56 @@ http://1.fatv.vip:80/67890/67890/163575
 http://1.fatv.vip:80/67890/67890/163576
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www4.0zz0.com/2021/07/08/08/882342264.png" group-title="BEIN SPORTS 4K G",BEIN SPORTS 7 4k+
 http://1.fatv.vip:80/67890/67890/163577
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvfajeriptv.com:80/logo/chn/57724.jpg" group-title="Alwan Sports  tv",Alwan Sport 1 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57724
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvfajeriptv.com:80/logo/chn/57725.jpg" group-title="Alwan Sports  tv",Alwan Sport 1 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57725
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvfajeriptv.com:80/logo/chn/57726.jpg" group-title="Alwan Sports  tv",Alwan Sport 1 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57726
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="Alwan Sports  tv",Alwan Sport 2 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57727
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvfajeriptv.com:80/logo/chn/57728.jpg" group-title="Alwan Sports  tv",Alwan Sport 2 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57728
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 2 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57729
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 3 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57730
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 3 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57731
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 3 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57732
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 4 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57733
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 4 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57734
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 4 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57735
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 5 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57736
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 5 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57737
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 6 SD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57738
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 6 HD
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57739
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 5 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57740
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 6 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57741
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 7 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57742
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 8 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57743
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 9 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57744
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Alwan Sports  tv",Alwan Sport 10 4K
-http://tvfajeriptv.com:80/2kgIdB9Pe9Df/lz7PCunOpgsZ/57745
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN F1 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550434
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN WWE 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550435
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN UFC 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550421
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 1 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550424
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 2 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550425
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 3 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550426
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 4 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550427
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 5 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550428
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 6 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550429
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 7 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550430
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 8 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550431
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 9 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550432
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 10 4K
+http://blue4k.xyz:8880/424875755814/840474763638/550433
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pic.apkdt.co/pic/mix2/EuroSport1.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan Sport 1
+http://blue4k.xyz:8880/424875755814/840474763638/542659
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan Sport 2
+http://blue4k.xyz:8880/424875755814/840474763638/542660
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan sport 3
+http://blue4k.xyz:8880/424875755814/840474763638/542661
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan sport 4
+http://blue4k.xyz:8880/424875755814/840474763638/542662
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan Sport 5
+http://blue4k.xyz:8880/424875755814/840474763638/542663
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",[KSA] KSA Alwan Sport 6
+http://blue4k.xyz:8880/424875755814/840474763638/542664
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan Sport 1
+http://blue4k.xyz:8880/424875755814/840474763638/550452
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan Sport 2
+http://blue4k.xyz:8880/424875755814/840474763638/550451
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan sport 3
+http://blue4k.xyz:8880/424875755814/840474763638/550436
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan sport 4
+http://blue4k.xyz:8880/424875755814/840474763638/550450
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan Sport 5
+http://blue4k.xyz:8880/424875755814/840474763638/550422
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN SPORTS 4K",Alwan Sport 6
+http://blue4k.xyz:8880/424875755814/840474763638/550423
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="POST SPORT TV",POST SPORT 1 SD
 http://herevip.pro:80/serial_186611/13914938267b8bc2c2cae3/687466
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="POST SPORT TV",POST SPORT 2 SD
