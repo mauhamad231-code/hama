@@ -1,24 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",NRT SPORT
-http://istar2.pro:80/G6RY765654343/52311221179307/729443
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527791.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",ASO SPORT
-http://istar2.pro:80/G6RY765654343/52311221179307/729396
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527791
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",Aso sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527915.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",KURDISTAN SPORT
-http://istar2.pro:80/G6RY765654343/52311221179307/729388
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527915
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",Kurdistan sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786.ts
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869.ts
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527869
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish Sports",Ld sport cheak
-http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980.ts
+http://nexon.flixip.vip:80/live/ev0tqsn83i/7cyu7whrdd/1527980
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Kurdish Sports",Duhok sport
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527850.ts
+http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527850
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="Bein Sports MN",BEIN 4K HDR
 http://falcontvip.com:80/8267226568/9668644763/353892
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Gh0k6Rfp/Be-In-Sports-HD-1-France.png" group-title="Bein Sports MN",L: beIN SPORTS 1 Ultra 4K
