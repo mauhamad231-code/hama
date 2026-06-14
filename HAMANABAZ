@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",BEIN 4K
+http://blue4k.xyz:8880/424875755814/840474763638/575584
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport 4k
 http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport4K
