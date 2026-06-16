@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",BEIN 4K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",BEIN 4K
 http://blue4k.xyz:8880/424875755814/840474763638/575584
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="Kurdish Sports",Ava sport 4k
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527825
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="Kurdish Sports",Nrt sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527791
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/Aso_Sport.png" group-title="Kurdish Sports",Aso sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527915
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/kurdistan_sport.png" group-title="Kurdish Sports",Kurdistan sport4K
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527786
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish Sports",LD sport chck
-http://nettv.cx:8000/2bbg6qtn5u/a3vt6uni23/1527980
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=" group-title="Sports",bein sport1 4k
+http://blue4k.xyz:8080/live/424875755814/840474763638/576082.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo=" group-title="Sports",bein sport1 4K
+http://blue4k.xyz:8080/live/424875755814/840474763638/576083.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN SPORT",ALWAN SPORT1
 https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/30.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT2
