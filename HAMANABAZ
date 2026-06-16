@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",BEIN 4K
-http://blue4k.xyz:8880/424875755814/840474763638/575584.m3u8
+http://blue4k.xyz:8880/live/424875755814/840474763638/575584.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo=" group-title="Sports",bein sport2 4k
 http://blue4k.xyz:8080/live/424875755814/840474763638/576089.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo=" group-title="Sports",bein sport1 4K
