@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",4K 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",ld sport 4K 
 http://nexon.cloud-f-proxy.xyz:80/135360601115040/mvmohr6790/1527980
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports",bein sport2 4k
 http://blue4k.xyz:8080/live/424875755814/840474763638/576089.m3u8
