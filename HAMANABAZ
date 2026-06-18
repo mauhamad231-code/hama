@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BIEN 4K
 http://blue4k.xyz:8080/live/424875755814/840474763638/574395.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",AVA SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300325.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/300325.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",NRT SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300289.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/300289.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASO SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300315.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/300315.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",KURDISTAN SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300389.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/300389.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASTERA SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300322.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/300322.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX1
-http://myserveriptv.com:2082/live/jabbar41/15748678/316601.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/316601.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX1 G
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408645.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX2 G
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408648.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX2
-http://myserveriptv.com:2082/live/jabbar41/15748678/316602.m3u8
+http://myserveriptv.com:2082/jabbar41/15748678/316602.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN SPORT",ALWAN SPORT1
 http://1.fatv.vip:80/live/mostafa8198/9571960111/402373.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT2
