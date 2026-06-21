@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BIEN 4K
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/292202.ts
+http://195.128.27.253:2095/live/4116039046/6281134156/1581673.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",SPORT 4K
+http://195.128.27.253:2095/live/4116039046/6281134156/1884095.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",AVA SPORT
 http://ultraprotv.com:8080/live/17629721464691/11415977494310/328684.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",NRT SPORT
