@@ -3,18 +3,20 @@
 http://195.128.27.253:2095/live/4116039046/6281134156/1581673.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",SPORT 4K
 http://195.128.27.253:2095/live/4116039046/6281134156/1884095.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ELEVEN SPORT 4K
+http://195.128.27.253:2095/live/4116039046/6281134156/1750774.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",AVA SPORT
-http://ultraprotv.com:8080/live/17629721464691/11415977494310/328684.ts
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",NRT SPORT
-http://37.49.226.118:2052/live/046250402261/d00879e84c28/277064.ts
+http://digiz1.com:8080/live/xhGmBb12/ppjdHDTtfuAB/802189.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",LD SPORT
 http://nexon.cloud-f-proxy.xyz:80/live/135360601115040/mvmohr6790/1527980.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASO SPORT
 http://ultraprotv.com:8080/live/17629721464691/11415977494310/328689.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",KURDISTAN SPORT
-http://myserveriptv.com:2082/live/jabbar41/15748678/300389.ts
+http://1.fatv.vip:80/live/mostafa8198/9571960111/409622.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASTERA SPORT
-http://37.49.226.118:2052/live/046250402261/d00879e84c28/277004.ts
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/89680.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX1 G
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408645.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX2 G
