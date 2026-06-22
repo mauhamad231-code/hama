@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="SPORT",BIEN 4K
-http://195.128.27.253:2095/live/4116039046/6281134156/1581673.ts
+http://1.fatv.vip:80/live/mostafa8198/9571960111/416073.te
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxROGVHj4Lzpnr4aCuYGxQ81h8rmCr9T2KZyZahz_TrfKUyyvHICSeeTo&s=10" group-title="SPORT",SPORT 4K
-http://195.128.27.253:2095/live/4116039046/6281134156/1884095.ts
+http://1.fatv.vip:80/live/mostafa8198/9571960111/404791.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.satfilm.pl/images/news/elewen1-4k-480x270_55fd.png" group-title="SPORT",ELEVEN SPORT 4K
-http://195.128.27.253:2095/live/4116039046/6281134156/1750774.ts
+http://1.fatv.vip:80/live/mostafa8198/9571960111/381689.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/ava-sport-560x315-1.jpg" group-title="SPORT",AVA SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" group-title="SPORT",NRT SPORT
