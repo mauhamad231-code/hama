@@ -17,9 +17,9 @@ http://ultraprotv.com:8080/live/17629721464691/11415977494310/328689.ts
 http://1.fatv.vip:80/live/mostafa8198/9571960111/409622.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASTERA SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/89680.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX1 G
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",BEIN MIX1 G
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408645.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX2 G
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEIN MIX2 G
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408646.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT1
 http://1.fatv.vip:80/live/mostafa8198/9571960111/402373.ts
