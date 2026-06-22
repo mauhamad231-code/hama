@@ -5,21 +5,21 @@ http://195.128.27.253:2095/live/4116039046/6281134156/1581673.ts
 http://195.128.27.253:2095/live/4116039046/6281134156/1884095.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.satfilm.pl/images/news/elewen1-4k-480x270_55fd.png" group-title="SPORT",ELEVEN SPORT 4K
 http://195.128.27.253:2095/live/4116039046/6281134156/1750774.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",AVA SPORT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/ava-sport-560x315-1.jpg" group-title="SPORT",AVA SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",NRT SPORT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" group-title="SPORT",NRT SPORT
 http://digiz1.com:8080/live/xhGmBb12/ppjdHDTtfuAB/802189.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",LD SPORT CHIK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyrnPKEcLL6mronATkxuTCbXrMYq4MmaPKqJuQWIIdVbZhKLnlPtGpNWy&s=10" group-title="SPORT",LD SPORT CHIK
 http://xxtv.me:8080/live/4c:57:39:21:b8:21/726626662998/358238.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",ASO SPORT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4GXkPKlwvwHFEFqK24bgWFv3jlV4tea5qQ4Pm3Na2mPPrRw1ypvTR84D&s=10" group-title="SPORT",ASO SPORT
 http://ultraprotv.com:8080/live/17629721464691/11415977494310/328689.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",KURDISTAN SPORT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJxnR488iPiZsIGStqm5GIh57UgPDSRPe21OKHVcdqgOOsnvYRxW79w0&s=10" group-title="SPORT",KURDISTAN SPORT
 http://1.fatv.vip:80/live/mostafa8198/9571960111/409622.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/yK8Z2HsvKjxgEc3mgieHhSJ2y0HbPpM-gjLN6HVxk2hlWrbJEbzhGitU_C44_43jUgBcjdES=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",ASTERA SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/89680.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX1 G
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="SPORT",BEIN1
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408645.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="SPORT",BEIN MIX2 G
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="SPORT",BEIN2
 http://1.fatv.vip:80/live/mostafa8198/9571960111/408646.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT1
 http://1.fatv.vip:80/live/mostafa8198/9571960111/402373.ts
