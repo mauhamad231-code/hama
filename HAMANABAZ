@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="SPORT",BIEN 4K
 http://1.fatv.vip:80/live/mostafa8198/9571960111/416073.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxROGVHj4Lzpnr4aCuYGxQ81h8rmCr9T2KZyZahz_TrfKUyyvHICSeeTo&s=10" group-title="SPORT",SPORT 4K
-http://1.fatv.vip:80/live/mostafa8198/9571960111/404791.ts
+http://tv4mc.xyz:80/play/live.php?mac=00:1A:79:c2:87:63&stream=526148&extension=ts&play_token=Dg3eXnOFTA
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.satfilm.pl/images/news/elewen1-4k-480x270_55fd.png" group-title="SPORT",ELEVEN SPORT 4K
-http://1.fatv.vip:80/live/mostafa8198/9571960111/381689.ts
+http://tv4mc.xyz:80/play/live.php?mac=00:1A:79:c2:87:63&stream=1948660&extension=ts&play_token=WWhLEYX52l
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/ava-sport-560x315-1.jpg" group-title="SPORT",AVA SPORT
 http://tv4mc.xyz:80/play/live.php?mac=00:1A:79:c2:87:63&stream=1858987&extension=ts&play_token=Euop5Mszxj
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" group-title="SPORT",NRT SPORT
