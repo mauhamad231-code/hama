@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="SPORT",BIEN 4K
 http://1.fatv.vip:80/live/mostafa8198/9571960111/416073.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="SPORT",BIEN 4K2
+http://est13.xyz:80/live/57365D5A59A7C4C/7j7mHq4MrP/1441959.td
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxROGVHj4Lzpnr4aCuYGxQ81h8rmCr9T2KZyZahz_TrfKUyyvHICSeeTo&s=10" group-title="SPORT",SPORT 4K
 http://tv4mc.xyz:80/play/live.php?mac=00:1A:79:c2:87:63&stream=526148&extension=ts&play_token=Dg3eXnOFTA
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.satfilm.pl/images/news/elewen1-4k-480x270_55fd.png" group-title="SPORT",ELEVEN SPORT 4K
